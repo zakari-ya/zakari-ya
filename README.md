@@ -1,5 +1,23 @@
 # 💫 About Me:
-👨‍💻 I'm currently working on full stack development projects, building end-to-end web applications<br><br>🤝 I'm looking to collaborate on innovative web development projects and open-source contributions<br><br>💡 I'm looking for help with scaling applications and exploring new technologies<br><br>🎓 I'm currently learning advanced development techniques, cloud technologies, and best practices in software architecture<br><br>💬 Ask me about JavaScript, React, Node.js, databases, API development, or anything full stack related<br><br>⚡ Fun fact: I'm passionate about creating seamless user experiences and solving complex technical challenges!
+Hi 👋 My name is Zakariya Allaoui
+=================================
+
+Full-Stack developer
+--------------------
+
+Hey there! 👋 I'm a full-stack developer who loves turning ideas into reality through code ✨ Whether it's crafting beautiful user interfaces on the frontend 🎨 or building powerful APIs on the backend ⚙️, I'm all about creating web applications that people actually enjoy using!
+
+I'm passionate about learning new technologies 📚 and staying curious about what's next in the dev world 🚀 My toolbox includes modern JavaScript frameworks, databases, and everything in between to bring projects from concept to deployment 🛠️
+
+When I'm not debugging or pushing commits 💻, I love collaborating with other developers 🤝, contributing to open-source projects 🌟, and sharing what I've learned along the way. I believe great software is built by great teams, and I'm always excited to connect with fellow developers!
+
+Let's build something amazing together! 💪✨
+
+* 🌍  I'm based in marrakech
+* 🖥️  See my portfolio at [Myportfolio](http://zakari-ya.github.io/portfolio/)
+* ✉️  You can contact me at [zakariyaallaoui01@gmail.com](mailto:zakariyaallaoui01@gmail.com)
+* 🧠  I'm currently learning Typescript
+* 👥  I'm looking to collaborate on open-source projects and innovative web applications where I can contribute my full-stack development expertise
 
 
 ## 🌐 Socials:
