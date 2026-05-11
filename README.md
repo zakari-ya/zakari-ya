@@ -1,77 +1,117 @@
-&lt;h1 align="center"&gt;Hi 👋 I'm Zakariya&lt;/h1&gt;
-&lt;h3 align="center"&gt;Full-Stack Developer from Marrakech 🇲🇦&lt;/h3&gt;
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:3a1c71,100:d76d77&height=200&section=header&text=Zakariya%20Allaoui&fontSize=60&fontColor=white&animation=fadeIn" alt="Header"/>
+</div>
 
-&lt;p align="center"&gt;
-  &lt;a href="http://zakari-ya.github.io/portfolio/" target="_blank"&gt;🌐 Portfolio&lt;/a&gt; •
-  &lt;a href="mailto:zakariyaallaoui01@gmail.com"&gt;✉️ Email&lt;/a&gt; •
-  &lt;a href="https://www.linkedin.com/in/zakariya-allaoui/" target="_blank"&gt;💼 LinkedIn&lt;/a&gt; •
-  &lt;a href="https://www.github.com/zakari-ya" target="_blank"&gt;🐙 GitHub&lt;/a&gt;
-&lt;/p&gt;
+<h1 align="center">Hi there 👋 I'm Zakariya Allaoui</h1>
+<h3 align="center">Full-Stack Developer | Problem Solver | Tech Enthusiast</h3>
+
+<div align="center">
+  <a href="https://zakari-ya.github.io/portfolio/">
+    <img src="https://img.shields.io/badge/Portfolio-Visit-ff69b4?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/>
+  </a>
+  <a href="mailto:zakariyaallaoui01@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+  </a>
+  <a href="https://www.linkedin.com/in/zakariya-allaoui/">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="https://www.github.com/zakari-ya">
+    <img src="https://img.shields.io/badge/GitHub-Follow-black?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+  </a>
+</div>
 
 ---
 
-### 🚀 About Me
+### 👨‍💻 About Me
 
-I'm a passionate full-stack developer who loves turning ideas into reality through code. Whether it's crafting beautiful UIs on the frontend or building robust APIs on the backend, I focus on creating web applications people actually enjoy using.
-
-- 🔭 Currently working on **open-source & innovative web apps**
-- 🌱 Learning **TypeScript** & modern web architectures
-- 👯 Open to collaborate on **open-source projects**
-- 💬 Ask me about **React, Node.js, Vue, or anything web dev**
-- ⚡ Fun fact: I debug with coffee ☕
+<table>
+  <tr>
+    <td width="60%">
+      <ul>
+        <li>🌍 Based in <b>Marrakech, Morocco</b></li>
+        <li>💼 Full-Stack Developer passionate about building amazing web applications</li>
+        <li>🧠 Currently mastering <b>TypeScript</b> and modern backend architectures</li>
+        <li>🤝 Looking to collaborate on <b>open-source projects</b> and innovative web apps</li>
+        <li>⚡ Fun fact: I turn coffee into code ☕ → 💻</li>
+      </ul>
+    </table>
+    <td width="40%">
+      <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="63%" alt="Coding"/>
+    </td>
+  </table>
+</table>
 
 ---
 
 ### 🛠️ Tech Stack
 
-&lt;p align="left"&gt;
-  &lt;!-- Frontend --&gt;
-  &lt;a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"&gt;&lt;img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" alt="HTML5" width="36" height="36" /&gt;&lt;/a&gt;
-  &lt;a href="https://www.w3.org/TR/CSS/#css" target="_blank" rel="noreferrer"&gt;&lt;img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" alt="CSS3" width="36" height="36" /&gt;&lt;/a&gt;
-  &lt;a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"&gt;&lt;img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" alt="JavaScript" width="36" height="36" /&gt;&lt;/a&gt;
-  &lt;a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"&gt;&lt;img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/typescript-colored.svg" alt="TypeScript" width="36" height="36" /&gt;&lt;/a&gt;
-  &lt;a href="https://reactjs.org/" target="_blank" rel="noreferrer"&gt;&lt;img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg" alt="React" width="36" height="36" /&gt;&lt;/a&gt;
-  &lt;a href="https://vuejs.org/" target="_blank" rel="noreferrer"&gt;&lt;img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/vuejs-colored.svg" alt="Vue" width="36" height="36" /&gt;&lt;/a&gt;
-  &lt;a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"&gt;&lt;img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/tailwindcss-colored.svg" alt="TailwindCSS" width="36" height="36" /&gt;&lt;/a&gt;
-  &lt;a href="https://getbootstrap.com/" target="_blank" rel="noreferrer"&gt;&lt;img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/bootstrap-colored.svg" alt="Bootstrap" width="36" height="36" /&gt;&lt;/a&gt;
-  &lt;!-- Backend --&gt;
-  &lt;a href="https://nodejs.org/en/" target="_blank" rel="noreferrer"&gt;&lt;img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nodejs-colored.svg" alt="NodeJS" width="36" height="36" /&gt;&lt;/a&gt;
-  &lt;a href="https://expressjs.com/" target="_blank" rel="noreferrer"&gt;&lt;img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/express-colored-dark.svg" alt="Express" width="36" height="36" /&gt;&lt;/a&gt;
-  &lt;a href="https://fastapi.tiangolo.com/" target="_blank" rel="noreferrer"&gt;&lt;img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/fastapi-colored.svg" alt="FastAPI" width="36" height="36" /&gt;&lt;/a&gt;
-  &lt;a href="https://www.php.net/" target="_blank" rel="noreferrer"&gt;&lt;img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/php-colored.svg" alt="PHP" width="36" height="36" /&gt;&lt;/a&gt;
-  &lt;!-- Database --&gt;
-  &lt;a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"&gt;&lt;img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mongodb-colored.svg" alt="MongoDB" width="36" height="36" /&gt;&lt;/a&gt;
-  &lt;a href="https://www.mysql.com/" target="_blank" rel="noreferrer"&gt;&lt;img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mysql-colored.svg" alt="MySQL" width="36" height="36" /&gt;&lt;/a&gt;
-  &lt;a href="https://www.postgresql.org/" target="_blank" rel="noreferrer"&gt;&lt;img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/postgresql-colored.svg" alt="PostgreSQL" width="36" height="36" /&gt;&lt;/a&gt;
-  &lt;a href="https://supabase.io/" target="_blank" rel="noreferrer"&gt;&lt;img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/supabase-colored.svg" alt="Supabase" width="36" height="36" /&gt;&lt;/a&gt;
-  &lt;!-- Tools --&gt;
-  &lt;a href="https://git-scm.com/" target="_blank" rel="noreferrer"&gt;&lt;img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/git-colored.svg" alt="Git" width="36" height="36" /&gt;&lt;/a&gt;
-  &lt;a href="https://www.docker.com/" target="_blank" rel="noreferrer"&gt;&lt;img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/docker-colored.svg" alt="Docker" width="36" height="36" /&gt;&lt;/a&gt;
-  &lt;a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"&gt;&lt;img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/visualstudiocode-colored.svg" alt="VS Code" width="36" height="36" /&gt;&lt;/a&gt;
-  &lt;a href="https://wordpress.com" target="_blank" rel="noreferrer"&gt;&lt;img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/wordpress-colored.svg" alt="WordPress" width="36" height="36" /&gt;&lt;/a&gt;
-&lt;/p&gt;
+<p align="center">
+  <a href="https://i.icoziv.workers.dev/icons?i=html5,css3,javascript,typescript,react,vuejs,nodejs,express,php,python,tailwindcss,bootstrap,git,docker,mongodb,mysql,postgresql">
+    <img src="https://i.icoziv.workers.dev/icons?i=html5,css3,javascript,typescript,react,vuejs,nodejs,express,php,python,tailwindcss,bootstrap,git,docker,mongodb,mysql,postgresql" alt="Tech Stack"/>
+  </a>
+</p>
 
 ---
 
-### 🌐 Connect With Me
+### 📊 GitHub Analytics
 
-&lt;p align="left"&gt;
-  &lt;a href="https://www.github.com/zakari-ya" target="_blank" rel="noreferrer"&gt;
-    &lt;picture&gt;
-      &lt;source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /&gt;
-      &lt;source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /&gt;
-      &lt;img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" alt="GitHub" /&gt;
-    &lt;/picture&gt;
-  &lt;/a&gt;
-  &lt;a href="https://www.linkedin.com/in/zakariya-allaoui/" target="_blank" rel="noreferrer"&gt;
-    &lt;picture&gt;
-      &lt;source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin-dark.svg" /&gt;
-      &lt;source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" /&gt;
-      &lt;img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" alt="LinkedIn" /&gt;
-    &lt;/picture&gt;
-  &lt;/a&gt;
-&lt;/p&gt;
+<div align="center">
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=zakari-ya&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zakari-ya&layout=compact&theme=tokyonight"/>
+  </a>
+</div>
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=zakari-ya&theme=tokyonight" alt="GitHub Streak"/>
+</div>
 
 ---
 
-&lt;p align="center"&gt;💡 &lt;i&gt;Let's build something amazing together!&lt;/i&gt; 🚀&lt;/p&gt;
+### 🏆 GitHub Trophies
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=zakari-ya&theme=tokyonight&no-frame=true&row=1&column=7" alt="GitHub Trophies"/>
+</div>
+
+---
+
+### 🔥 What I'm Currently Working On
+
+<details open>
+<summary><b>Open Source Contributions</b></summary>
+<br>
+I'm actively looking to contribute to meaningful open-source projects. If you have a project that needs help, <a href="mailto:zakariyaallaoui01@gmail.com">reach out to me!</a>
+</details>
+
+<br>
+
+<details>
+<summary><b>Learning Journey</b></summary>
+<br>
+<ul>
+  <li>✅ Complete TypeScript mastery with advanced patterns</li>
+  <li>✅ Cloud deployment with Docker and Kubernetes</li>
+  <li>✅ Microservices architecture and message queues</li>
+</ul>
+</details>
+
+---
+
+### 🤝 Let's Connect!
+
+<div align="center">
+  <a href="https://www.github.com/zakari-ya">
+    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+  </a>
+  <a href="https://www.linkedin.com/in/zakariya-allaoui/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="mailto:zakariyaallaoui01@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+  </a>
+</div>
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:3a1c71,100:d76d77&height=100&section=footer"/>
+</div>
