@@ -55,24 +55,8 @@
 
 ### 📊 GitHub Analytics
 
-<div align="center">
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=zakari-ya&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zakari-ya&layout=compact&theme=tokyonight"/>
-  </a>
-</div>
+<div align="center"> <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=zakari-ya&theme=tokyonight" width="100%" alt="Profile Details"/> <br/><br/> <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=zakari-ya&theme=tokyonight" height="180em" alt="Repos per language"/> <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=zakari-ya&theme=tokyonight" height="180em" alt="Most commit language"/> </div><div align="center"> <br/> <img src="https://github-readme-activity-graph.vercel.app/graph?username=zakari-ya&theme=tokyo-night&bg_color=1a1b27&color=70a5fd&line=38bdae&point=bf91f3&area=true&hide_border=true" width="90%" alt="Contribution Graph"/> </div>
 
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=zakari-ya&theme=tokyonight" alt="GitHub Streak"/>
-</div>
-
----
-
-### 🏆 GitHub Trophies
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=zakari-ya&theme=tokyonight&no-frame=true&row=1&column=7" alt="GitHub Trophies"/>
-</div>
 
 ---
 
