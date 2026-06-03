@@ -6,7 +6,7 @@
 <h3 align="center">Full-Stack Developer | Problem Solver | Tech Enthusiast</h3>
 
 <div align="center">
-  <a href="https://zakari-ya.github.io/portfolio/">
+  <a href="https://zakariyaportfolio.vercel.app/">
     <img src="https://img.shields.io/badge/Portfolio-Visit-ff69b4?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/>
   </a>
   <a href="mailto:zakariyaallaoui01@gmail.com">
